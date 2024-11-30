@@ -1,2 +1,2 @@
 # Student-Management-App
-Student Managing Application
+Student Management App
